@@ -1,2 +1,6 @@
 apify-client
 python-dotenv
+crewai-tools
+crewai
+crewai[tools]
+langchain_openai
